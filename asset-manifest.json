@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/weather_app/static/css/main.4aab3c17.css",
+    "main.js": "/weather_app/static/js/main.731d8e00.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/weather_app/static/js/453.0ccb7fb4.chunk.js",
+    "static/media/broken-clouds.jpg": "/weather_app/static/media/broken-clouds.ddc354e2b77e9babce01.jpg",
+    "static/media/cold-weather.jpg": "/weather_app/static/media/cold-weather.e12c4edf855eebe67581.jpg",
+    "static/media/haze.jpg": "/weather_app/static/media/haze.71638dc97797118f5061.jpg",
+    "static/media/overcast-clouds.jpg": "/weather_app/static/media/overcast-clouds.51e6f603450136fd25f7.jpg",
+    "static/media/mist.jpg": "/weather_app/static/media/mist.86deb15847d3d119ac1e.jpg",
+    "static/media/light-rain.jpg": "/weather_app/static/media/light-rain.897feb6659e333c155f6.jpg",
+    "static/media/warm-weather.jpg": "/weather_app/static/media/warm-weather.f68f483150c4ef492445.jpg",
+    "static/media/few-clouds.jpg": "/weather_app/static/media/few-clouds.fbcbb660b51d677626df.jpg",
+    "static/media/moderate-rain.jpg": "/weather_app/static/media/moderate-rain.8cf10eaba1d17ac59b03.jpg",
+    "static/media/thunderstrom.jpg": "/weather_app/static/media/thunderstrom.75d7561a9f33c02ccbad.jpg",
+    "static/media/scattered-clouds.jpg": "/weather_app/static/media/scattered-clouds.a3fda96ab4f85c6f5987.jpg",
+    "index.html": "/weather_app/index.html",
+    "main.4aab3c17.css.map": "/weather_app/static/css/main.4aab3c17.css.map",
+    "main.731d8e00.js.map": "/weather_app/static/js/main.731d8e00.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/weather_app/static/js/453.0ccb7fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4aab3c17.css",
+    "static/js/main.731d8e00.js"
+  ]
+}
